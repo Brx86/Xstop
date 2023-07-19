@@ -1,4 +1,4 @@
-#! /bin/python3
+#!/usr/bin/python3
 import os, re
 
 # 正则匹配窗口的 PID 和 CLASS 名
