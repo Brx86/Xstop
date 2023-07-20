@@ -1,4 +1,6 @@
 # Xstop
+[**English**](https://github.com/Brx86/Xstop/blob/main/README.md)&nbsp;&nbsp;&nbsp;**简体中文**
+
 轻点即可暂停/恢复 x11 窗口，以降低cpu占用，减少发热。受 [xkill](https://man.archlinux.org/man/xkill.1) 和 [xsuspender](https://github.com/kernc/xsuspender) 启发。
 
 ## 使用方法

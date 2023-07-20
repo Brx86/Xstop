@@ -1,4 +1,6 @@
 # Xstop
+**English**&nbsp;&nbsp;&nbsp;[**简体中文**](https://github.com/Brx86/Xstop/blob/main/README_zh.md)
+
 Pause/resume x11 windows with just one click to reduce CPU usage and heat. Inspired by [xkill](https://man.archlinux.org/man/xkill.1) and [xsuspender](https://github.com/kernc/xsuspender).
 
 ## Usage:
