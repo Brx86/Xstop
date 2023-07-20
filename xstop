@@ -19,4 +19,4 @@ if info:
     else:
         # 如果正在运行，则发送暂停信号
         os.popen(f"kill -STOP {pid} {child_pids}")
-        os.popen(f"notify-send 'Stop: {name}' -i xstop-stop -t 5000")
+        os.popen(f"notify-send 'Pause: {name}' -i xstop-pause -t 5000")
